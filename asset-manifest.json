@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-js-styled-pomodoro/static/js/main.ea65e631.chunk.js",
+    "main.js.map": "/react-js-styled-pomodoro/static/js/main.ea65e631.chunk.js.map",
+    "runtime-main.js": "/react-js-styled-pomodoro/static/js/runtime-main.a736c37d.js",
+    "runtime-main.js.map": "/react-js-styled-pomodoro/static/js/runtime-main.a736c37d.js.map",
+    "static/js/2.c39ea975.chunk.js": "/react-js-styled-pomodoro/static/js/2.c39ea975.chunk.js",
+    "static/js/2.c39ea975.chunk.js.map": "/react-js-styled-pomodoro/static/js/2.c39ea975.chunk.js.map",
+    "index.html": "/react-js-styled-pomodoro/index.html",
+    "static/js/2.c39ea975.chunk.js.LICENSE.txt": "/react-js-styled-pomodoro/static/js/2.c39ea975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a736c37d.js",
+    "static/js/2.c39ea975.chunk.js",
+    "static/js/main.ea65e631.chunk.js"
+  ]
+}
